@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Program Manager\Program Manager\bin\Debug\Program Manager.exe.config
+C:\Users\User\source\repos\Program Manager\Program Manager\bin\Debug\Program Manager.exe
+C:\Users\User\source\repos\Program Manager\Program Manager\bin\Debug\Program Manager.pdb
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program Manager.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program_Manager.Form1.resources
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program_Manager.Properties.Resources.resources
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program_Manager.WindowsAccessories.resources
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program Manager.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program Manager.exe
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program Manager.pdb
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program_Manager.ws.resources
+C:\Users\User\source\repos\Program Manager\Program Manager\obj\Debug\Program_Manager.office.resources
